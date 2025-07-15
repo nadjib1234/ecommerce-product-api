@@ -264,8 +264,6 @@ This is a test project completed as part of a backend developer assessment.
 ## 📞 Contact
 
 **Developer:** Nadjib Kamel  
-**Email:** [Available upon request]  
-**LinkedIn:** [Available upon request]  
 
 ## 📄 License
 
